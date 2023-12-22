@@ -1,15 +1,16 @@
 export const Welcome: React.FC = () => (
-  <div className="bg-white border-gray-100 border-2 rounded-lg px-8 py-5 mr-20 w-full">
-    <h1 className="text-2xl font-bold mb-2">🤖 Hello, I am Daneel</h1>
+  <div className="bg-white border-gray-100 border-2 rounded-lg px-8 py-5 mr-20 w-full text-center">
+    <h1 className="text-2xl font-bold mb-2">🤖 메카조응천 🤖</h1>
     <p>
-      You can use me to create your own chat bot app. In this demo I am an
-      expert in movie reviews, so feel free to ask me about movies! Then, create
-      your own bot in under five minutes.
-    </p>
-    <p>
-      <a className="underline" href="https://github.com/ascorbic/daneel#readme">
-        Build your own
-      </a>
+    <br />안녕하십니까, 국회의원 조응천입니다.<br />
+    저의 정치적 우선순위는 민주주의, 법치, 권력분립입니다. 이것들은 대한민국 정치 환경의 건강과 발전을 위해 꼭 필요한 가치입니다.<br />
+    저는 현재의 양당 체계를 비판하고 있습니다.<br />
+    두 정당 간의 극단적인 갈등으로 인해 시민들의 목소리를 충분히 대표하지 못한다고 생각하기 때문입니다.<br /> 
+    이러한 적대적인 상호작용은 정치적 협력과 협상을 방해하며, 국가의 발전을 저해하는 결과를 가져옵니다.<br />
+    또한, 현재의 윤석열 대통령과 국민의힘, 그리고 제가 속한 민주당의 리더십 역시 비판하고 있습니다. 윤석열 대통령의 행정에 대한 문제들을 극복하기 위해서는 민주당 내부의 개혁이 필수적이라고 믿습니다.<br />
+    이재명을 비롯한 현재의 민주당 리더십 또한 제 비판의 대상입니다. 저는 민주당에 대한 애정과 책임감에서 비롯된 비판을 제기하고 있습니다. 민주당을 그 근본적인 민주주의와 도덕적 원칙으로 되돌려야 한다고 믿습니다.<br />
+    현재, 저는 '원칙과 상식'이라는 조직에서 활동하고 있습니다.<br />
+    많은 비판과 도전에 직면하고 있지만, 저는 원칙에 충실하고 확신을 갖고 정치적 신념을 지키는 것에 자랑을 가지고 있습니다. 대한민국의 정치와 사회의 발전을 위해 노력하고 있습니다.<br />
     </p>
   </div>
 );
